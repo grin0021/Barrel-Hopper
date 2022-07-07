@@ -260,4 +260,139 @@ LogInit: Object subsystem initialized
 [2022.07.07-15.26.08:664][ 26]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/Animation/ThirdPersonWalk.uasset
 [2022.07.07-15.26.11:687][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
 [2022.07.07-15.26.11:689][198]PIE: New page: PIE session: Barrel_Hopper_Map (Jul 7, 2022, 6:26:11 AM)
-[2022.07.07-15.26.11:689][198]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0
+[2022.07.07-15.26.11:689][198]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2022.07.07-15.26.11:702][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010249s)
+[2022.07.07-15.26.11:702][198]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2022.07.07-15.26.11:702][198]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2022.07.07-15.26.11:702][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.013213s)
+[2022.07.07-15.26.11:731][198]LogInit: XAudio2 using 'Speakers (G432 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.07.07-15.26.11:747][198]LogInit: FAudioDevice initialized.
+[2022.07.07-15.26.11:891][198]LogWorld: Game class is 'BH_GameMode_C'
+[2022.07.07-15.26.11:896][198]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2022.07.07-11.26.11
+[2022.07.07-15.26.11:897][198]LogWorld: Bringing up level for play took: 0.003950
+[2022.07.07-15.26.11:900][198]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 9 classes and 0 folders.
+[2022.07.07-15.26.11:902][198]PIE: Info Play in editor start time for /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map 0.062
+[2022.07.07-15.27.29:471][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-15.27.29:471][136]PIE: New page: PIE session: Barrel_Hopper_Map (Jul 7, 2022, 6:27:29 AM)
+[2022.07.07-15.27.29:471][136]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2022.07.07-15.27.29:481][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010096s)
+[2022.07.07-15.27.29:482][136]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2022.07.07-15.27.29:482][136]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2022.07.07-15.27.29:482][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.010879s)
+[2022.07.07-15.27.29:504][136]LogInit: XAudio2 using 'Speakers (G432 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.07.07-15.27.29:516][136]LogInit: FAudioDevice initialized.
+[2022.07.07-15.27.29:549][136]LogWorld: Game class is 'BH_GameMode_C'
+[2022.07.07-15.27.29:554][136]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2022.07.07-11.27.29
+[2022.07.07-15.27.29:555][136]LogWorld: Bringing up level for play took: 0.004107
+[2022.07.07-15.27.29:557][136]PIE: Info Play in editor start time for /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map -0.283
+[2022.07.07-15.32.11:593][247]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 108 classes and 0 folders.
+[2022.07.07-15.33.07:182][423]BlueprintLog: New page: Compile BH_Barrel
+[2022.07.07-15.33.11:233][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Barrel/BH_Barrel" FILE="D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Barrel/BH_Barrel.uasset" SILENT=true
+[2022.07.07-15.33.11:490][423]LogSavePackage: Save=183.81ms
+[2022.07.07-15.33.11:490][423]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/BH_BarrelFEF76BFC4F05128353BFB0867B182BFB.tmp' to 'D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Barrel/BH_Barrel.uasset'
+[2022.07.07-15.33.11:554][423]LogSavePackage: Total save time: 289.01ms
+[2022.07.07-15.33.11:554][423]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Barrel/BH_Barrel.uasset
+[2022.07.07-15.33.11:561][423]BlueprintEditorCompileResults: Info [1386.90] Compile of BH_Barrel successful! [in 4,379 ms]
+[2022.07.07-15.33.13:787][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-15.33.13:787][554]PIE: New page: PIE session: Barrel_Hopper_Map (Jul 7, 2022, 6:33:13 AM)
+[2022.07.07-15.33.13:789][554]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2022.07.07-15.33.13:800][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010799s)
+[2022.07.07-15.33.13:801][554]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2022.07.07-15.33.13:801][554]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2022.07.07-15.33.13:801][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.011648s)
+[2022.07.07-15.33.13:832][554]LogInit: XAudio2 using 'Speakers (G432 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.07.07-15.33.13:846][554]LogInit: FAudioDevice initialized.
+[2022.07.07-15.33.13:878][554]LogWorld: Game class is 'BH_GameMode_C'
+[2022.07.07-15.33.13:882][554]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2022.07.07-11.33.13
+[2022.07.07-15.33.13:883][554]LogWorld: Bringing up level for play took: 0.003832
+[2022.07.07-15.33.13:885][554]PIE: Info Play in editor start time for /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map 0.045
+[2022.07.07-15.35.25:606][399]BlueprintLog: New page: Compile BH_Character
+[2022.07.07-15.35.29:549][399]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.35.29:646][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Character/BH_Character" FILE="D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset" SILENT=true
+[2022.07.07-15.35.30:059][399]LogSavePackage: Save=336.81ms
+[2022.07.07-15.35.30:059][399]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/BH_Character11A1B99D4FD9E1B0711722861CD27B26.tmp' to 'D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset'
+[2022.07.07-15.35.30:122][399]LogSavePackage: Total save time: 443.98ms
+[2022.07.07-15.35.30:122][399]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset
+[2022.07.07-15.35.30:130][399]BlueprintEditorCompileResults: Info [1525.47] Compile of BH_Character successful! [in 4,523 ms]
+[2022.07.07-15.35.36:195][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-15.35.36:195][758]PIE: New page: PIE session: Barrel_Hopper_Map (Jul 7, 2022, 6:35:36 AM)
+[2022.07.07-15.35.36:195][758]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2022.07.07-15.35.36:205][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010060s)
+[2022.07.07-15.35.36:205][758]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2022.07.07-15.35.36:205][758]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2022.07.07-15.35.36:205][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.010904s)
+[2022.07.07-15.35.36:206][758]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.35.36:236][758]LogInit: XAudio2 using 'Speakers (G432 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.07.07-15.35.36:249][758]LogInit: FAudioDevice initialized.
+[2022.07.07-15.35.36:278][758]LogWorld: Game class is 'BH_GameMode_C'
+[2022.07.07-15.35.36:282][758]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2022.07.07-11.35.36
+[2022.07.07-15.35.36:283][758]LogWorld: Bringing up level for play took: 0.003959
+[2022.07.07-15.35.36:285][758]PIE: Info Play in editor start time for /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map 0.444
+[2022.07.07-15.36.12:852][938]LogTexture:Display: Building textures: S_AudioComponent_AutoActivate (BGRA8)
+[2022.07.07-15.36.34:063][195]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.36.36:959][195]LogFileHelpers: Saving map 'Barrel_Hopper_Map' took 2.859
+[2022.07.07-15.37.16:312][471]LogFileHelpers: Saving map 'Barrel_Hopper_Map' took 33.317
+[2022.07.07-15.37.29:396][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-15.37.29:396][572]PIE: New page: PIE session: Barrel_Hopper_Map (Jul 7, 2022, 6:37:29 AM)
+[2022.07.07-15.37.29:396][572]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2022.07.07-15.37.29:407][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010025s)
+[2022.07.07-15.37.29:407][572]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2022.07.07-15.37.29:407][572]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2022.07.07-15.37.29:407][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.010888s)
+[2022.07.07-15.37.29:438][572]LogInit: XAudio2 using 'Speakers (G432 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.07.07-15.37.29:451][572]LogInit: FAudioDevice initialized.
+[2022.07.07-15.37.29:483][572]LogWorld: Game class is 'BH_GameMode_C'
+[2022.07.07-15.37.29:488][572]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2022.07.07-11.37.29
+[2022.07.07-15.37.29:488][572]LogWorld: Bringing up level for play took: 0.004003
+[2022.07.07-15.37.29:490][572]PIE: Info Play in editor start time for /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map -0.35
+[2022.07.07-15.37.36:310][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-15.37.36:310][803]PIE: New page: PIE session: Barrel_Hopper_Map (Jul 7, 2022, 6:37:36 AM)
+[2022.07.07-15.37.36:310][803]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2022.07.07-15.37.36:320][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009542s)
+[2022.07.07-15.37.36:320][803]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2022.07.07-15.37.36:321][803]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2022.07.07-15.37.36:321][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.010460s)
+[2022.07.07-15.37.36:321][803]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.37.36:353][803]LogInit: XAudio2 using 'Speakers (G432 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.07.07-15.37.36:365][803]LogInit: FAudioDevice initialized.
+[2022.07.07-15.37.36:398][803]LogWorld: Game class is 'BH_GameMode_C'
+[2022.07.07-15.37.36:403][803]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2022.07.07-11.37.36
+[2022.07.07-15.37.36:404][803]LogWorld: Bringing up level for play took: 0.004169
+[2022.07.07-15.37.36:406][803]PIE: Info Play in editor start time for /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map 0.566
+[2022.07.07-15.38.20:021][390]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.38.24:771][390]LogSavePackage: Save=769.92ms
+[2022.07.07-15.38.24:771][390]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/Barrel_Hopper_Map_Auto2BC70C07D4D25E79D20305995C54026C4.tmp' to 'D:/Unreal/Barrel Hopper/Project/Saved/Autosaves/Game/Barrel_Hopper/Levels/Barrel_Hopper_Map_Auto2.umap'
+[2022.07.07-15.38.28:656][390]LogSavePackage: Total save time: 8580.84ms
+[2022.07.07-15.38.28:656][390]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Saved/Autosaves/Game/Barrel_Hopper/Levels/Barrel_Hopper_Map_Auto2.umap
+[2022.07.07-15.38.28:698][390]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Barrel_Hopper/Levels/Barrel_Hopper_Map' took 8.677
+[2022.07.07-15.38.28:698][390]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.677
+[2022.07.07-15.38.39:682][658]LogSavePackage: Save=2545.58ms
+[2022.07.07-15.38.39:682][658]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/Barrel_Hopper_Map7661CC064744F5793A2D8F9ACB4E2B8A.tmp' to 'D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Levels/Barrel_Hopper_Map.umap'
+[2022.07.07-15.38.39:741][658]LogSavePackage: Total save time: 2613.15ms
+[2022.07.07-15.38.39:741][658]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Levels/Barrel_Hopper_Map.umap
+[2022.07.07-15.39.43:583][229]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.39.46:069][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-15.39.46:069][373]PIE: New page: PIE session: Barrel_Hopper_Map (Jul 7, 2022, 6:39:46 AM)
+[2022.07.07-15.39.46:069][373]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2022.07.07-15.39.46:079][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010251s)
+[2022.07.07-15.39.46:080][373]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2022.07.07-15.39.46:080][373]LogPlayLevel: PIE: World Init took: (0.000464s)
+[2022.07.07-15.39.46:080][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.011006s)
+[2022.07.07-15.39.46:080][373]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.39.46:109][373]LogInit: XAudio2 using 'Speakers (G432 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.07.07-15.39.46:122][373]LogInit: FAudioDevice initialized.
+[2022.07.07-15.39.46:151][373]LogWorld: Game class is 'BH_GameMode_C'
+[2022.07.07-15.39.46:156][373]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2022.07.07-11.39.46
+[2022.07.07-15.39.46:157][373]LogWorld: Bringing up level for play took: 0.003831
+[2022.07.07-15.39.46:159][373]PIE: Info Play in editor start time for /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map 0.318
+[2022.07.07-15.41.12:306][312]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.41.30:127][379]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2022.07.07-15.41.41:902][ 75]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2022.07.07-15.41.46:821][368]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
+[2022.07.07-15.41.51:867][669]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
+[2022.07.07-15.42.41:024][611]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_4) Not registered. Aborting.
+[2022.07.07-15.44.13:727][131]BlueprintLog: New page: Compile BH_Character
+[2022.07.07-15.44.13:791][131]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_5) Not registered. Aborting.
+[2022.07.07-15.44.13:928][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Character/BH_Character" FILE="D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset" SILENT=true
+[2022.07.07-15.44.16:356][131]LogSavePackage: Save=370.84ms
+[2022.07.07-15.44.16:356][131]LogSa
