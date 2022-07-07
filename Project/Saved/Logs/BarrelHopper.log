@@ -395,4 +395,67 @@ LogInit: Object subsystem initialized
 [2022.07.07-15.44.13:791][131]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_5) Not registered. Aborting.
 [2022.07.07-15.44.13:928][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Character/BH_Character" FILE="D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset" SILENT=true
 [2022.07.07-15.44.16:356][131]LogSavePackage: Save=370.84ms
-[2022.07.07-15.44.16:356][131]LogSa
+[2022.07.07-15.44.16:356][131]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/BH_Character80381F834D9692DD1321ACB0811DF147.tmp' to 'D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset'
+[2022.07.07-15.44.16:439][131]LogSavePackage: Total save time: 500.98ms
+[2022.07.07-15.44.16:439][131]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset
+[2022.07.07-15.44.16:446][131]BlueprintEditorCompileResults: Info [2051.79] Compile of BH_Character successful! [in 2,717 ms]
+[2022.07.07-15.47.48:549][609]BlueprintLog: New page: Compile BH_GameMode
+[2022.07.07-15.47.48:576][609]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.47.48:669][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Game_Mode/BH_GameMode" FILE="D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Game_Mode/BH_GameMode.uasset" SILENT=true
+[2022.07.07-15.47.53:011][609]LogSavePackage: Save=4265.17ms
+[2022.07.07-15.47.53:011][609]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/BH_GameModeC9E6B1FB4C1E412F969AC8A52FAD6814.tmp' to 'D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Game_Mode/BH_GameMode.uasset'
+[2022.07.07-15.47.53:074][609]LogSavePackage: Total save time: 4373.92ms
+[2022.07.07-15.47.53:074][609]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Game_Mode/BH_GameMode.uasset
+[2022.07.07-15.47.53:082][609]BlueprintEditorCompileResults: Info [2268.42] Compile of BH_GameMode successful! [in 4,533 ms]
+[2022.07.07-15.49.10:790][256]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Barrel_Hopper/Levels/Barrel_Hopper_Map' took 0.017
+[2022.07.07-15.49.10:795][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Barrel_Hopper/Character/BH_Character] ([1] browsable assets)...
+[2022.07.07-15.49.10:813][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Barrel_Hopper/Character/BH_Character.BH_Character]
+[2022.07.07-15.49.10:813][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Character/BH_Character]
+[2022.07.07-15.49.15:091][256]LogSavePackage: Save=4233.10ms
+[2022.07.07-15.49.15:091][256]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/BH_Character_Auto303AB71CE410B2E8228C4089406849886.tmp' to 'D:/Unreal/Barrel Hopper/Project/Saved/Autosaves/Game/Barrel_Hopper/Character/BH_Character_Auto3.uasset'
+[2022.07.07-15.49.15:105][256]LogSavePackage: Total save time: 4259.34ms
+[2022.07.07-15.49.15:105][256]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Saved/Autosaves/Game/Barrel_Hopper/Character/BH_Character_Auto3.uasset
+[2022.07.07-15.49.15:105][256]LogFileHelpers: Auto-saving content packages took 4.314
+[2022.07.07-15.51.03:833][775]BlueprintLog: New page: Compile BH_Character
+[2022.07.07-15.51.03:897][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.51.04:053][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Character/BH_Character" FILE="D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset" SILENT=true
+[2022.07.07-15.51.04:520][775]LogSavePackage: Save=382.04ms
+[2022.07.07-15.51.04:520][775]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/BH_Character0835B08A4071BE952406CA93C6D3BF29.tmp' to 'D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset'
+[2022.07.07-15.51.04:590][775]LogSavePackage: Total save time: 500.81ms
+[2022.07.07-15.51.04:590][775]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset
+[2022.07.07-15.51.04:595][775]BlueprintEditorCompileResults: Info [2459.94] Compile of BH_Character successful! [in 763 ms]
+[2022.07.07-15.51.09:089][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-15.51.09:089][ 41]PIE: New page: PIE session: Barrel_Hopper_Map (Jul 7, 2022, 6:51:09 AM)
+[2022.07.07-15.51.09:092][ 41]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2022.07.07-15.51.09:103][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011631s)
+[2022.07.07-15.51.09:104][ 41]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2022.07.07-15.51.09:104][ 41]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2022.07.07-15.51.09:104][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.012520s)
+[2022.07.07-15.51.09:104][ 41]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.51.09:136][ 41]LogInit: XAudio2 using 'Speakers (G432 Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.07.07-15.51.09:150][ 41]LogInit: FAudioDevice initialized.
+[2022.07.07-15.51.09:180][ 41]LogWorld: Game class is 'BH_GameMode_C'
+[2022.07.07-15.51.09:184][ 41]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2022.07.07-11.51.09
+[2022.07.07-15.51.09:185][ 41]LogWorld: Bringing up level for play took: 0.004007
+[2022.07.07-15.51.09:187][ 41]PIE: Info Play in editor start time for /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map -0.653
+[2022.07.07-15.53.27:166][314]BlueprintLog: New page: Compile BH_Character
+[2022.07.07-15.53.27:377][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Character/BH_Character" FILE="D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset" SILENT=true
+[2022.07.07-15.53.27:809][314]LogSavePackage: Save=382.56ms
+[2022.07.07-15.53.27:809][314]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/BH_CharacterED30E6994AD77B059ADA46A9A0477504.tmp' to 'D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset'
+[2022.07.07-15.53.27:871][314]LogSavePackage: Total save time: 457.50ms
+[2022.07.07-15.53.27:871][314]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset
+[2022.07.07-15.53.27:877][314]BlueprintEditorCompileResults: Info [2603.22] Compile of BH_Character successful! [in 712 ms]
+[2022.07.07-15.53.32:974][616]LogContentBrowser: Native class hierarchy updated for 'PhAT' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.07.07-15.53.33:178][616]LogRenderer: Reallocating scene render targets to support 1524x892 (Frame:80035).
+[2022.07.07-15.55.31:300][616]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2022.07.07-15.58.00:815][552]BlueprintLog: New page: Compile BH_Character
+[2022.07.07-15.58.01:042][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Character/BH_Character" FILE="D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset" SILENT=true
+[2022.07.07-15.58.01:577][552]LogSavePackage: Save=449.87ms
+[2022.07.07-15.58.01:577][552]LogSavePackage: Moving 'D:/Unreal/Barrel Hopper/Project/Saved/BH_CharacterB2075DD54DDEE6607E0C189AAC903E71.tmp' to 'D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset'
+[2022.07.07-15.58.01:643][552]LogSavePackage: Total save time: 564.79ms
+[2022.07.07-15.58.01:643][552]LogSavePackage:Display: Finished SavePackage D:/Unreal/Barrel Hopper/Project/Content/Barrel_Hopper/Character/BH_Character.uasset
+[2022.07.07-15.58.01:651][552]BlueprintEditorCompileResults: Info [2876.99] Compile of BH_Character successful! [in 835 ms]
+[2022.07.07-15.58.07:925][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.07-15.58.07:925][919]PIE: New page: PIE session: Barrel_Hopper_Map (Jul 7, 2022, 6:58:07 AM)
+[2022.07.07-15.58.07:926][919]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2022.07.07-15.58.07:936][919]LogPlayLe
